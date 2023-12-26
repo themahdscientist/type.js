@@ -1,0 +1,30 @@
+{
+  "name": "type.js",
+  "version": "1.0.0",
+  "description": "A light-weight JavaScript library for type animations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themahdscientist/type.js.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "animations",
+    "typing",
+    "library",
+    "plugin",
+    "themahdscientist"
+  ],
+  "author": "Ifeanyichukwu Akudinobi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/themahdscientist/type.js/issues"
+  },
+  "homepage": "https://github.com/themahdscientist/type.js#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
